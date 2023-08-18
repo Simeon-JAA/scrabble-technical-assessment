@@ -17,6 +17,9 @@ In the English alphabet, letters have the following point scores:
 | 8        | J, X                         |
 | 10       | Q, Z                         |
 
+CAT 5 11 NATION 6 8
+DOG 5 12
+
 For example, the word "GUARDIAN" has a score of 10:
 
 ```
@@ -63,9 +66,14 @@ Any code committed after the deadline will not be included.
 1. In the real game, tiles are taken at random from a 'bag' containing a fixed number of each tile.
    Assign seven tiles to a rack using a bag containing the above distribution. -->
 
-1. Find a valid word formed from the seven tiles. A list of valid words can be found in [`dictionary.txt`](./dictionary.txt).
-1. Find the longest valid word that can be formed from the seven tiles.
-1. Find the highest scoring word that can be formed.
-1. Find the highest scoring word if any one of the letters can score triple.
+<!-- 1. Find a valid word formed from the seven tiles. A list of valid words can be found in [`dictionary.txt`](./dictionary.txt). -->
+
+<!-- 1. Find the longest valid word that can be formed from the seven tiles. -->
+
+<!-- 1. Find the highest scoring word that can be formed. -->
+
+<!-- 1. Find the highest scoring word if any one of the letters can score triple. -->
+
 1. For discussion: how would we adapt our solution for a multiplayer environment?
+
 # scrabble-technical-assessment
